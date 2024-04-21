@@ -1,0 +1,19 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
+import {View, Text} from 'react-native';
+import React from 'react';
+
+const App = () => {
+  return (
+    <View>
+      <Text>App</Text>
+    </View>
+  );
+};
+
+export default App;
